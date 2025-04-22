@@ -54,7 +54,7 @@
             "labelStyle": "secondary"
         },
         {
-            "label": "Videos And More",
+            "label": "Videos",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
