@@ -308,55 +308,23 @@ sections:
       If you are interested in appearing in one of our videos, we would love to
       hear from you! Please reach out to us for more details on how you can get
       involved.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
     badge:
       label: Contact Us
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: >-
+          https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBptCNWgprxDQvhPWSNztTCwBrKVcbcZksFgGGwxwzJXWSSZtJvtMlmrXKfphCtcGJXzBKq
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
