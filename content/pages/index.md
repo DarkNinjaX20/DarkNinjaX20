@@ -314,6 +314,17 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: >-
+          https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBptCNWgprxDQvhPWSNztTCwBrKVcbcZksFgGGwxwzJXWSSZtJvtMlmrXKfphCtcGJXzBKq
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
