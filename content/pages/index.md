@@ -15,16 +15,7 @@ sections:
       tutorials, live streams, and entertaining commentary. Join us as we
       explore the captivating world of DarkNinjaX and engage with a community of
       fellow fans!
-    actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/Screenshot 2025-04-22 8.07.31 AM.png
       altText: gaming YouTube channel
