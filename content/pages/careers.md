@@ -82,10 +82,9 @@ sections:
     items:
       - title: Editer
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Produces and edits engaging video content for DarkNinjaX, ensuring
+          high quality and creativity in every project.
         colors: bg-neutral-fg-dark
         styles:
           self:
