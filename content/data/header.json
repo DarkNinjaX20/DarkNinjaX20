@@ -23,7 +23,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Home",
             "altText": "",
             "url": "https://darkninjax200.netlify.app/",
             "showIcon": false,
