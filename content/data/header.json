@@ -41,6 +41,17 @@
                 },
                 {
                     "type": "Link",
+                    "label": "YouTube",
+                    "altText": "YouTube",
+                    "url": "Youtube.com/@DarkNinjaX20",
+                    "showIcon": true,
+                    "icon": "youtube",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
                     "label": "Dropdown item",
                     "altText": "",
                     "url": "/",
