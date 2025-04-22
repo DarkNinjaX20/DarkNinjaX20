@@ -84,7 +84,7 @@ sections:
           DarkNinjaX will collaborate with others, and one of you will be a
           special guest and play some video games with us.
         image:
-          url: /images/icon2.svg
+          url: /images/07sBMitXcz0UXdYU6LowlQt-2.webp
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
