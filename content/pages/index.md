@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: gaming channel
+      altText: gaming youtube channel
       elementId: ''
       type: ImageBlock
     badge:
