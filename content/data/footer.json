@@ -7,17 +7,7 @@
     "text": "Gaming/Youtube Channel Website\n",
     "secondaryLinks": {
         "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
