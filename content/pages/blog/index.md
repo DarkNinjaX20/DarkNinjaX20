@@ -8,7 +8,7 @@ topSections:
       text: Videos From DarkNinjaX'S Youtube Channel
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: All the videos DarkNinjaX Made Right Here on His Website.
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
