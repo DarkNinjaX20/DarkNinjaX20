@@ -104,7 +104,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: "Make\_Merch"
-        subtitle: Numbers Done
+        subtitle: In the ferutre
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
