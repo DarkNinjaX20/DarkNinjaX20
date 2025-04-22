@@ -3,9 +3,11 @@ title: "Most\_recent Video"
 slug: top-ten-lessons-we-learned
 date: '2025-04-08'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  In this exciting new video, DarkNinjaX takes us on a thrilling adventure as he
+  dives into the action-packed world of Call of Duty: Warzone. Accompanied by a
+  vibrant and energetic soundtrack, the gameplay unfolds with intense moments
+  and strategic maneuvers. So grab your snacks, settle in, and immerse yourself
+  in the exhilarating journey that awaits! Enjoy the show!
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
