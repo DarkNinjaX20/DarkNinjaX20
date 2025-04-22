@@ -67,10 +67,12 @@ sections:
       - type: FeaturedItem
         title: '100'
         subtitle: when he hits 100
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Once DarkNinjaX accumulates 100 subscribers on his channel, he plans
+          to celebrate this milestone by revealing both his voice and face to
+          his audience. This event will offer fans a chance to connect with him
+          more personally, and he hopes to share his excitement and gratitude
+          for their support.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
