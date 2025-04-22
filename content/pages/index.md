@@ -103,7 +103,7 @@ sections:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: 500k
+        title: Make Merch
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
