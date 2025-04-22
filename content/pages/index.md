@@ -71,6 +71,35 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
+        title: "Make\_Merch"
+        subtitle: In the Future
+        text: >
+          "The exploration of research in the future holds the promise of
+          groundbreaking discoveries and advancements that could transform our
+          understanding of the world."DarkNinjaX plans to create merchandise in
+          the future.
+        image:
+          type: ImageBlock
+          url: /images/Screenshot 2025-04-22 8.18.21 AM.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
         title: '100'
         subtitle: when he hits 100
         text: >+
@@ -102,35 +131,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - type: FeaturedItem
-        title: "Make\_Merch"
-        subtitle: In the Future
-        text: >
-          "The exploration of research in the future holds the promise of
-          groundbreaking discoveries and advancements that could transform our
-          understanding of the world."DarkNinjaX plans to create merchandise in
-          the future.
-        image:
-          type: ImageBlock
-          url: /images/Screenshot 2025-04-22 8.18.21 AM.png
-          altText: Placeholder text
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
     actions: []
     badge:
       label: ''
