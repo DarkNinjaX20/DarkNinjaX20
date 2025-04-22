@@ -112,7 +112,7 @@ sections:
           the future.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Screenshot 2025-04-22 8.18.21 AM.png
           altText: Placeholder text
           elementId: ''
           styles:
