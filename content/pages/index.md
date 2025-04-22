@@ -105,10 +105,11 @@ sections:
       - type: FeaturedItem
         title: "Make\_Merch"
         subtitle: In the Future
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "The exploration of research in the future holds the promise of
+          groundbreaking discoveries and advancements that could transform our
+          understanding of the world."DarkNinjaX plans to create merchandise in
+          the future.
         image:
           type: ImageBlock
           url: /images/icon1.svg
