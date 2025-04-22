@@ -104,7 +104,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: "Make\_Merch"
-        subtitle: In the ferutre
+        subtitle: 'In the '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
