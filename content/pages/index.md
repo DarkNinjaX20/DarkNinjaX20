@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/Screenshot 2025-04-22 8.07.31 AM.png
       altText: gaming YouTube channel
       elementId: ''
       type: ImageBlock
