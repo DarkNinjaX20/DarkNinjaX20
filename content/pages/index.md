@@ -46,6 +46,30 @@ sections:
       type: TitleBlock
     subtitle: News About DarkNinjaX
     items:
+      - title: ''
+        subtitle: Collabing With Others
+        text: >
+          DarkNinjaX will collaborate with others, and one of you will be a
+          special guest and play some video games with us.
+        image:
+          url: /images/07sBMitXcz0UXdYU6LowlQt-2.webp
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: '100'
         subtitle: when he hits 100
@@ -78,30 +102,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ''
-        subtitle: Collabing With Others
-        text: >
-          DarkNinjaX will collaborate with others, and one of you will be a
-          special guest and play some video games with us.
-        image:
-          url: /images/07sBMitXcz0UXdYU6LowlQt-2.webp
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
     actions: []
     badge:
       label: ''
