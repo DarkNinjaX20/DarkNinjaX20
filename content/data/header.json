@@ -43,7 +43,7 @@
                     "type": "Link",
                     "label": "YouTube",
                     "altText": "YouTube",
-                    "url": "Youtube.com/@DarkNinjaX20",
+                    "url": "https://www.youtube.com/@DarkNinjaX20/featured",
                     "showIcon": true,
                     "icon": "youtube",
                     "iconPosition": "left",
