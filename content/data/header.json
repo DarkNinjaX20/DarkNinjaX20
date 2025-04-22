@@ -30,7 +30,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "E",
+                    "label": "Email",
                     "altText": "",
                     "url": "/",
                     "showIcon": true,
