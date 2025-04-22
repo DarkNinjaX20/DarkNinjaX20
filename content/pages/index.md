@@ -176,7 +176,7 @@ sections:
       label: Contact Us
       color: text-primary
       type: Badge
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     type: GenericSection
     actions:
       - type: Link
