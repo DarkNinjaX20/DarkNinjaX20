@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to our website, which is fully dedicated to the DarkNinjaX YouTube
+      channel. Here, you'll find a comprehensive collection of videos, updates,
+      and resources related to DarkNinjaX's unique content, including gaming
+      tutorials, live streams, and entertaining commentary. Join us as we
+      explore the captivating world of DarkNinjaX and engage with a community of
+      fellow fans!
     actions:
       - label: Get started
         altText: ''
