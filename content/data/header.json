@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "SubNav",
-            "label": "Home Or More",
+            "label": "Home and Links",
             "altText": "Dropdown",
             "links": [
                 {
