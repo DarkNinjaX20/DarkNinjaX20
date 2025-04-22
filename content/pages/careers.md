@@ -80,7 +80,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Account Executive
+      - title: Editer
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
