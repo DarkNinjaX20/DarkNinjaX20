@@ -58,9 +58,6 @@ sections:
       - content/data/person1.json
       - content/data/person2.json
       - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
@@ -81,14 +78,13 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Editer
+        subtitle: ''
+        text: >
+          Produces and edits engaging video content for DarkNinjaX, ensuring
+          high quality and creativity in every project.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -102,7 +98,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
+      - title: Make videos with DarkNinjaX
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
