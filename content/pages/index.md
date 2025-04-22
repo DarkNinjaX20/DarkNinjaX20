@@ -319,7 +319,7 @@ sections:
         label: Send email
         altText: Play
         url: >-
-          https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBptCNWgprxDQvhPWSNztTCwBrKVcbcZksFgGGwxwzJXWSSZtJvtMlmrXKfphCtcGJXzBKq
+          https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsCPbrvxbwpPqBMTqBsqDktZRdfQvCNhmdCDZtzNkBGfthmGxjBzRpLKZHClqbcfWdvdPncG
         showIcon: true
         icon: mail
         iconPosition: right
