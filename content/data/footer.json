@@ -16,6 +16,13 @@
             "url": "https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrlFSsXwTkNBFFxHVwNXQLcJCMSCZlvBJQFKJFtpKzdlqhjCSWCLrgsccLzCXRMvGzHrbq",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/@DarkNinjaX20/featured",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
