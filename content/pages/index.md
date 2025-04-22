@@ -16,7 +16,7 @@ sections:
       explore the captivating world of DarkNinjaX and engage with a community of
       fellow fans!
     actions:
-      - label: See Tutorials
+      - label: ''
         altText: ''
         url: /
         showIcon: true
