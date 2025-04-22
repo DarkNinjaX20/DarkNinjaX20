@@ -13,20 +13,54 @@
     },
     "primaryLinks": [
         {
-            "label": "Videos and Coming soon",
+            "type": "SubNav",
+            "label": "Home and Links",
+            "altText": "Dropdown",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Home",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Send email",
+                    "altText": "Play",
+                    "url": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsCPbrvxbwpPqBMTqBsqDktZRdfQvCNhmdCDZtzNkBGfthmGxjBzRpLKZHClqbcfWdvdPncG",
+                    "showIcon": true,
+                    "icon": "mail",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "YouTube",
+                    "altText": "YouTube",
+                    "url": "https://www.youtube.com/@DarkNinjaX20/featured",
+                    "showIcon": true,
+                    "icon": "youtube",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
+        {
+            "label": "Videos",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "",
-            "altText": "Dropdown",
-            "links": [],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [],
