@@ -67,12 +67,13 @@ sections:
       - type: FeaturedItem
         title: '100'
         subtitle: when he hits 100
-        text: >
-          Once DarkNinjaX accumulates 100 subscribers on his channel, he plans
-          to celebrate this milestone by revealing his voice and face to his
-          audience. This event will offer fans a chance to connect with him more
-          personally, and he hopes to share his excitement and gratitude for
-          their support.
+        text: >+
+          <div style="text-align: center">Once DarkNinjaX accumulates 100
+          subscribers on his channel, he plans to celebrate this milestone by
+          revealing his voice and face to his audience. This event will offer
+          fans a chance to connect with him more personally, and he hopes to
+          share his excitement and gratitude for their support.</div>
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
