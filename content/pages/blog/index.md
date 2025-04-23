@@ -9,8 +9,7 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: All the videos DarkNinjaX Made Right Here on His Website.
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
