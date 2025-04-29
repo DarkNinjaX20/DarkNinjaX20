@@ -1,16 +1,17 @@
 ---
 title: Blog
 slug: /blog
-numOfPostsPerPage: 8
-enableSearch: true
+numOfPostsPerPage: 5
+enableSearch: false
 topSections:
   - title:
-      text: Videos From DarkNinjaX'S Youtube Channel
+      text: Individuals from DarkNinjaX's YouTube Channel
       color: text-dark
       type: TitleBlock
-    subtitle: All the videos DarkNinjaX Made Right Here on His Website.
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    subtitle: >-
+      Everybody who helps DarkNinjaX and you guys can also be a part of the
+      team.
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -27,6 +28,34 @@ topSections:
         justifyContent: flex-start
     type: FeaturedPostsSection
     hoverEffect: move-up
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Meet the team
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
 styles:
   title:
     textAlign: center
