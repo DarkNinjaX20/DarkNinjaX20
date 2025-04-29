@@ -60,6 +60,7 @@ styles:
     textAlign: center
 seo:
   type: Seo
+  socialImage: /images/Screenshot 2025-04-22 8.18.21 AM.png
 type: PostFeedLayout
 bottomSections: []
 ---
