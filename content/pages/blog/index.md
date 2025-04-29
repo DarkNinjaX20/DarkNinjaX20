@@ -7,7 +7,8 @@ topSections:
   - title:
       text: >-
         People from DarkNinjaX's Youtube ChannelIndividuals from DarkNinjaX's
-        YouTube ChannelIndividuals from DarkNinjaX's YouTube Channel
+        YouTube ChannelIndividuals from DarkNinjaX's YouTube ChannelIndividuals
+        from DarkNinjaX's YouTube Channel
       color: text-dark
       type: TitleBlock
     subtitle: >-
