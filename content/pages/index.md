@@ -221,6 +221,62 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Video calbbing Form
+      color: text-dark
+    subtitle: ''
+    text: >
+      Enter your first name, last name, and email address. In the description,
+      explain why you want to be in a video with DarkNinjaX.
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: Contact Us
+      color: text-primary
+    colors: bg-light-fg-dark
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
