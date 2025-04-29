@@ -2,7 +2,7 @@
 title: Blog
 slug: /blog
 numOfPostsPerPage: 5
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
       text: Videos From DarkNinjaX'S Youtube Channel
