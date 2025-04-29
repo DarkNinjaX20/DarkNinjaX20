@@ -5,7 +5,9 @@ numOfPostsPerPage: 5
 enableSearch: false
 topSections:
   - title:
-      text: People from DarkNinjaX's Youtube Channel
+      text: >-
+        People from DarkNinjaX's Youtube ChannelIndividuals from DarkNinjaX's
+        YouTube Channel
       color: text-dark
       type: TitleBlock
     subtitle: >-
