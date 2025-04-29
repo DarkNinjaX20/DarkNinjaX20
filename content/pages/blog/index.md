@@ -8,9 +8,7 @@ topSections:
       text: People from DarkNinjaX'S Youtube Channel
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Everybody that helps DarkninjaX And you guys can be a part of the team
-      too.
+    subtitle: Everybody who helps DarkninjaX And you guys can be a part of the team too.
     posts: []
     showThumbnail: true
     showExcerpt: true
