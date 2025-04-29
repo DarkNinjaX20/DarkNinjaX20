@@ -5,7 +5,7 @@ numOfPostsPerPage: 5
 enableSearch: false
 topSections:
   - title:
-      text: Videos From DarkNinjaX'S Youtube Channel
+      text: People from DarkNinjaX'S Youtube Channel
       color: text-dark
       type: TitleBlock
     subtitle: All the videos DarkNinjaX Made Right Here on His Website.
