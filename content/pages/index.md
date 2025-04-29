@@ -259,7 +259,7 @@ sections:
         label: Submit
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
       elementId: contact-form
       styles:
         self:
