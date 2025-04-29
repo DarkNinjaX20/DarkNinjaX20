@@ -196,6 +196,31 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Meet the team
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person4.json
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
