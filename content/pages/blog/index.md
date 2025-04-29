@@ -39,7 +39,6 @@ topSections:
     people:
       - content/data/person1.json
       - content/data/person2.json
-      - content/data/person3.json
       - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
@@ -60,25 +59,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
-  metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
-postFeed:
-  type: PagedPostsSection
-  title: null
-  subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
-  showAuthor: true
-  actions: []
-  elementId: null
-  variant: three-col-grid
-  colors: bg-light-fg-dark
-  hoverEffect: move-up
 ---

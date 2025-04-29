@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Nina Mercado",
-    "role": "Co-founder & CEO",
+    "name": "James",
+    "role": "Idea Maker",
     "image": {
-        "url": "/images/avatar4.svg",
+        "url": "/images/Screenshot 2025-04-29 8.07.09 AM.png",
         "altText": "Nina Mercado",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "I am James, the driving force behind the creative ideas for DarkNinjaX's videos.\n"
 }
