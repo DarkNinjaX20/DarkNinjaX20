@@ -9,7 +9,7 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Everybody who helps DarkNinjaX And you guys can be a part of the team,
+      Everybody who helps DarkNinjaX and you guys can be a part of the team,
       too.
     posts: []
     showThumbnail: true
