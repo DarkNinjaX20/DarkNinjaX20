@@ -8,7 +8,9 @@ topSections:
       text: People from DarkNinjaX'S Youtube Channel
       color: text-dark
       type: TitleBlock
-    subtitle: All the videos DarkNinjaX Made Right Here on His Website.
+    subtitle: >-
+      Everybody that helps DarkninjaX And you guys can be a part of the team
+      too.
     posts: []
     showThumbnail: true
     showExcerpt: true
