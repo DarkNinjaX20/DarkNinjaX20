@@ -230,11 +230,9 @@ sections:
         self:
           textAlign: left
     subtitle: All of DarkNinjaX's Video and Shorts
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We are putting all of DarkNinjaX's videos and YouTube shorts here. This
+      website took two weeks to create, so please enjoy!
     actions: []
     media:
       type: VideoBlock
