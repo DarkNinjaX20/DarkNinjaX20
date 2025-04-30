@@ -307,10 +307,9 @@ sections:
         title: Check out DarkNinjaX's Channel
         tagline: Feature 1
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Check out the rest of DarkNinjaX's videos on his YouTube channel. We
+          hope you enjoyed the website.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
