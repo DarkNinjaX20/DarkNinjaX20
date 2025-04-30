@@ -159,43 +159,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
-  - title:
-      text: Want To Be In A Video
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      If you are interested in appearing in one of our videos, we would love to
-      hear from you! Please reach out to us for more details on how you can get
-      involved.
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
-    actions:
-      - type: Link
-        label: Send email
-        altText: Play
-        url: >-
-          https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsCPbrvxbwpPqBMTqBsqDktZRdfQvCNhmdCDZtzNkBGfthmGxjBzRpLKZHClqbcfWdvdPncG
-        showIcon: true
-        icon: mail
-        iconPosition: right
-        style: secondary
-        elementId: ''
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
@@ -237,11 +200,11 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
+      url: 'https://www.youtube.com/watch?v=4LgwPUZCpFM&t=4s'
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
@@ -301,6 +264,69 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - title:
+      text: Want To Be In A Video
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      If you are interested in appearing in one of our videos, we would love to
+      hear from you! Please reach out to us for more details on how you can get
+      involved.
+    badge:
+      label: Contact Us
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    type: GenericSection
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: >-
+          https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsCPbrvxbwpPqBMTqBsqDktZRdfQvCNhmdCDZtzNkBGfthmGxjBzRpLKZHClqbcfWdvdPncG
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Check out DarkNinjaX's Channel
+        tagline: Feature 1
+        subtitle: ''
+        text: >
+          Check out the rest of DarkNinjaX's videos on his YouTube channel. We
+          hope you enjoyed the website.
+        image:
+          type: ImageBlock
+          url: /images/Screenshot 2025-04-22 8.18.21 AM.png
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
