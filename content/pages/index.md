@@ -224,20 +224,20 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: DarkNinjaX's Videos
+      text: DarkNinjaX's Frist Video
       color: text-dark
       styles:
         self:
           textAlign: left
-    subtitle: All of DarkNinjaX's Video and Shorts
+    subtitle: ''
     text: >
-      We are putting all of DarkNinjaX's videos and YouTube shorts here. This
-      website took two weeks to create, so please enjoy!
+      This is DarkNinjaX's first video posted on YouTube, featuring a Fortnite
+      victory.
     actions: []
     media:
       type: VideoBlock
-      title: Call Of Duty Part2
-      url: 'https://www.youtube.com/watch?v=vk3sBYuYrqc&t=173s'
+      title: Title of the video
+      url: 'https://www.youtube.com/watch?v=4LgwPUZCpFM&t=4s'
       autoplay: false
       loop: false
       muted: false
@@ -264,20 +264,20 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: DarkNinjaX's Frist Video
+      text: DarkNinjaX's Videos
       color: text-dark
       styles:
         self:
           textAlign: left
-    subtitle: ''
+    subtitle: All of DarkNinjaX's Video and Shorts
     text: >
-      This is DarkNinjaX's first video posted on YouTube, featuring a Fortnite
-      victory.
+      We are putting all of DarkNinjaX's videos and YouTube shorts here. This
+      website took two weeks to create, so please enjoy!
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
-      url: 'https://www.youtube.com/watch?v=4LgwPUZCpFM&t=4s'
+      title: Call Of Duty Part2
+      url: 'https://www.youtube.com/watch?v=vk3sBYuYrqc&t=173s'
       autoplay: false
       loop: false
       muted: false
