@@ -312,8 +312,9 @@ sections:
           hope you enjoyed the website.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Featured item
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
           styles:
             self:
               borderRadius: medium
