@@ -224,59 +224,43 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Video calbbing Form
+      text: DarkNinjaX's Videos
       color: text-dark
-    subtitle: ''
+      styles:
+        self:
+          textAlign: left
+    subtitle: All of DarkNinjaX's Video and Shorts
     text: >
-      Enter your first name, last name, and email address. In the description,
-      explain why you want to be in a video with DarkNinjaX.
+      We are putting all of DarkNinjaX's videos and YouTube shorts here. This
+      website took two weeks to create, so please enjoy!
     actions: []
     media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
+      type: VideoBlock
+      title: Call Of Duty Part2
+      url: 'https://www.youtube.com/watch?v=vk3sBYuYrqc&t=173s'
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
+      aspectRatio: '16:9'
       styles:
         self:
           padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-    badge:
-      type: Badge
-      label: Contact Us
-      color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
