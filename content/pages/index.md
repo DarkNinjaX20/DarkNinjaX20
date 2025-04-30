@@ -224,24 +224,26 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: DarkNinjaX's Videos
+      text: Generic section with a video
       color: text-dark
       styles:
         self:
           textAlign: left
-    subtitle: All of DarkNinjaX's Video and Shorts
-    text: >
-      We are putting all of DarkNinjaX's videos and YouTube shorts here. This
-      website took two weeks to create, so please enjoy!
+    subtitle: Section with a video subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
       type: VideoBlock
-      title: Call Of Duty Part2
-      url: 'https://www.youtube.com/watch?v=vk3sBYuYrqc&t=173s'
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
       aspectRatio: '16:9'
       styles:
         self:
@@ -264,26 +266,24 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: DarkNinjaX's Videos
       color: text-dark
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: All of DarkNinjaX's Video and Shorts
+    text: >
+      We are putting all of DarkNinjaX's videos and YouTube shorts here. This
+      website took two weeks to create, so please enjoy!
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
+      title: Call Of Duty Part2
+      url: 'https://www.youtube.com/watch?v=vk3sBYuYrqc&t=173s'
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
