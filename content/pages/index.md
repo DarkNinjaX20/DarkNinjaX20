@@ -238,7 +238,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Call Of Duty Part2
       url: 'https://www.youtube.com/watch?v=vk3sBYuYrqc&t=173s'
       autoplay: false
       loop: true
