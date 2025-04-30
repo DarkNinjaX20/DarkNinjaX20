@@ -238,7 +238,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Call Of Duty Warzone
       url: ''
       autoplay: true
       loop: true
