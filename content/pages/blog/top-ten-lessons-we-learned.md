@@ -7,7 +7,7 @@ excerpt: >-
   dives into the action-packed world of Call of Duty: Warzone. Accompanied by a
   vibrant and energetic soundtrack, the gameplay unfolds with intense moments
   and strategic maneuvers. So grab your snacks, settle in, and immerse yourself
-  in the exhilarating journey that awaits! Enjoy the show!
+  in the
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
