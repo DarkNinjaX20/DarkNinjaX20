@@ -312,7 +312,7 @@ sections:
           hope you enjoyed the website.
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/Screenshot 2025-04-22 8.18.21 AM.png
           altText: Image alt text placeholder
           elementId: ''
           styles:
