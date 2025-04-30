@@ -242,7 +242,7 @@ sections:
       url: 'https://www.youtube.com/watch?v=vk3sBYuYrqc&t=173s'
       autoplay: false
       loop: false
-      muted: true
+      muted: false
       controls: false
       aspectRatio: '16:9'
       styles:
