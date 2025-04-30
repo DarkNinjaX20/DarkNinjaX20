@@ -304,7 +304,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Most Viewed Short
       color: text-dark
       styles:
         self:
