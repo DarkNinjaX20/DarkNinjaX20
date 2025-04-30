@@ -301,44 +301,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Most Viewed Short
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: "DarkNinjaX is confused because this short has the most views. \U0001F602\U0001F602\n"
-    actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: 'https://www.youtube.com/shorts/abJyEnw6CXM'
-      autoplay: false
-      loop: false
-      muted: false
-      controls: true
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
