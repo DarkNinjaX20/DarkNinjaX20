@@ -317,7 +317,7 @@ sections:
       title: Title of the video
       url: 'https://www.youtube.com/shorts/abJyEnw6CXM'
       autoplay: false
-      loop: true
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
