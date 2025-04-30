@@ -304,7 +304,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Check out DarkNinjaX's Channel
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
