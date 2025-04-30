@@ -243,7 +243,7 @@ sections:
       autoplay: false
       loop: false
       muted: false
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
