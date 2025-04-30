@@ -224,7 +224,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: DarkNinjaX's Frist Videdo
+      text: DarkNinjaX's Frist Video
       color: text-dark
       styles:
         self:
