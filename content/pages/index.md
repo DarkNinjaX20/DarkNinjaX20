@@ -159,17 +159,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - title:
       text: Want To Be In A Video
       color: text-dark
@@ -196,6 +185,17 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
