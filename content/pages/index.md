@@ -224,32 +224,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Want To Be In A Video
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      If you are interested in appearing in one of our videos, we would love to
-      hear from you! Please reach out to us for more details on how you can get
-      involved.
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
-    actions:
-      - type: Link
-        label: Send email
-        altText: Play
-        url: >-
-          https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsCPbrvxbwpPqBMTqBsqDktZRdfQvCNhmdCDZtzNkBGfthmGxjBzRpLKZHClqbcfWdvdPncG
-        showIcon: true
-        icon: mail
-        iconPosition: right
-        style: secondary
-        elementId: ''
   - type: GenericSection
     title:
       type: TitleBlock
@@ -290,6 +264,32 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - title:
+      text: Want To Be In A Video
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      If you are interested in appearing in one of our videos, we would love to
+      hear from you! Please reach out to us for more details on how you can get
+      involved.
+    badge:
+      label: Contact Us
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    type: GenericSection
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: >-
+          https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWsCPbrvxbwpPqBMTqBsqDktZRdfQvCNhmdCDZtzNkBGfthmGxjBzRpLKZHClqbcfWdvdPncG
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: CarouselSection
     items:
       - type: FeaturedItem
