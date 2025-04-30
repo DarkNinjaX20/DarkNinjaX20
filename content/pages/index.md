@@ -241,7 +241,7 @@ sections:
       title: Call Of Duty Part2
       url: 'https://www.youtube.com/watch?v=vk3sBYuYrqc&t=173s'
       autoplay: false
-      loop: true
+      loop: false
       muted: true
       controls: false
       aspectRatio: '16:9'
